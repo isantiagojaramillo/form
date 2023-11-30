@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("../img/fondo2.jpg");
+    background-size: cover;
+}
+
+.bordes{
+    border: 2px solid dashed #fff;
+    border-radius: 20px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
